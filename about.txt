@@ -1,3 +1,6 @@
 This is information about the project
 
-It's slightly different than the readme because its just describing the project in more of a long formed way.
+It's slightly different than the README because its just describing the project in more of a long formed way.
+
+This file was created by @tcarmean
+
